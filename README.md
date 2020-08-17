@@ -1,4 +1,5 @@
 Module 2 Coding Assignment
+https://github.com/NalinaV/nalina.github.io/blob/master/index.html
 
 Coursera course: HTML, CSS, and Javascript for Web Developers
 
