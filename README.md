@@ -1,5 +1,5 @@
 Module 2 Coding Assignment
-https://rawgit.com/NalinaV/nalina.github.io/master/index.html
+ https://nalinav.github.io/nalina.github.io/
 
 Coursera course: HTML, CSS, and Javascript for Web Developers
 
